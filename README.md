@@ -2,4 +2,4 @@
 
 2022-11-29
 
-Git-Übung Köln Nov 2022 SBIW
+Git-Übung Köln 2022-11 SBIW
