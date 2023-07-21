@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b"
+              scriptencoding="iso15924"
+              dateencoding="iso8601"
+              countryencoding="iso3166-1"
+              repositoryencoding="iso15511"
+              audience="external">
+      <eadid countrycode="DE" mainagencycode="DE-2498"/>
+      <filedesc>
+        <titlestmt>
+            <titleproper>B:Hüttermann - [Einzelautograph, Einzelautographen]</titleproper>
+        </titlestmt>
+      </filedesc>
+   </eadheader>
+   <archdesc id="DE-2498-BF00036238" level="collection" audience="external">
+      <did>
+        <repository>
+            <corpname role="Bestandshaltende Institution"
+                      authfilenumber="DE-2498"
+                      source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+        </repository>
+        <dao xlink:type="simple"
+              xlink:show="replace"
+              xlink:actuate="onLoad"
+              xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/bf/index.html?ADISDB=BF&amp;WEB=JA&amp;ADISOI=00036238"
+              xlink:title="Katalogeintrag im OPAC des DLA"/>
+        <origination>
+            <persname role="Bestandsbildner"
+                      source="GND"
+                      authfilenumber="1098214714"
+                      normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+        </origination>
+        <unittitle label="Titel">B:Hüttermann - [Einzelautograph, Einzelautographen]</unittitle>
+        <unitid repositorycode="DE-2498" label="Signatur">B:Hüttermann</unitid>
+      </did>
+      <accessrestrict>
+        <head>Sperrvermerk</head>
+        <p>benutzbar</p>
+      </accessrestrict>
+      <controlaccess>
+            <head>Gattung</head>
+        <genreform>Einzelautograph</genreform>
+        <genreform>Einzelautographen</genreform>
+      </controlaccess>
+      <dsc>
+         <c id="DE-2498-HS00743038" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00743038"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Siedler, Wolf Jobst an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1995/2004">1995-2004</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00018</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Br.  2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118827634"
+                         normal="Siedler, Wolf Jobst">Siedler, Wolf Jobst (1926-2013)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00743041" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00743041"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Hüttermann-Hegermann, Wilhelm an Siedler, Wolf Jobst [Briefe]</unittitle>
+                <unitdate normal="20041023">23.10.2004</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00001</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl. Ausdr.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="118827634"
+                         normal="Siedler, Wolf Jobst">Siedler, Wolf Jobst (1926-2013)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Öhningen</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00743048" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00743048"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Sparschuh, Jens an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="2003">2003</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00019</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Br.  2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="115640290"
+                         normal="Sparschuh, Jens">Sparschuh, Jens (1955-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00743055" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00743055"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Stoiber, Edmund an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate>ohne Datum[11.2.1999?]</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00021</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118618512"
+                         normal="Stoiber, Edmund">Stoiber, Edmund (1941-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">ohne Ort</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00743056" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00743056"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schavan, Annette an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="20060125">25.01.2006</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00016</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118160168"
+                         normal="Schavan, Annette">Schavan, Annette (1955-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00744949" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00744949"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schöne, Albrecht an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19990427">27.04.1999</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00017</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="121970647"
+                         normal="Schöne, Albrecht">Schöne, Albrecht (1925-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Göttingen</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00744966" level="file" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00744966"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Trotha, Klaus von an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="1995/1997">1995-1997</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00031,1-3</unitid>
+                <abstract>
+                    <ref xlink:href="#DE-2498-HS00744976"
+                       xlink:title="Trotha, Klaus von an Eickmeyer, ... [Briefe]">Dabei: Trotha, Klaus von an Eickmeyer, ... [Briefe]</ref>
+                </abstract>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Br.  3 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann (gleiche Adresse)</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="141851066"
+                         normal="Trotha, Klaus von">Trotha, Klaus von (1938-)</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Stuttgart</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+            <c id="DE-2498-HS00744976" level="item" audience="external">
+               <did>
+                  <repository>
+                    <corpname role="Bestandshaltende Institution"
+                               authfilenumber="DE-2498"
+                               source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                  </repository>
+				              <dao xlink:type="simple"
+                       xlink:show="replace"
+                       xlink:actuate="onLoad"
+                       xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00744976"
+                       xlink:title="Katalogeintrag im OPAC des DLA"/>
+                  <unittitle>Trotha, Klaus von an Eickmeyer, ... [Briefe]</unittitle>
+                  <unitdate normal="19951107">07.11.1995</unitdate>
+                  <unitid countrycode="DE"
+                          repositorycode="DE-2498"
+                          label="Akquisitionsnummer">HS.2013.0002.00031,1</unitid>
+                  <abstract>
+                    <ref xlink:href="#DE-2498-HS00744966"
+                          xlink:title="Trotha, Klaus von an Hüttermann, Elmar D. [Briefe]">Bei: Trotha, Klaus von an Hüttermann, Elmar D. [Briefe]</ref>
+                  </abstract>
+                  <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Kopie</extent>
+                  </physdesc>
+                  <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                  </langmaterial>
+                  <note audience="external" label="Bemerkung">
+                    <p>Adressat ist der Oberbürgermeister von Konstanz</p>
+                  </note>
+               </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+               <controlaccess>
+                  <head>Personen</head>
+                  <persname role="Verfasser"
+                            source="GND"
+                            authfilenumber="141851066"
+                            normal="Trotha, Klaus von">Trotha, Klaus von (1938-)</persname>
+                  <persname role="Adressat" source="DE-2498" normal="Eickmeyer, ...">Eickmeyer, ...</persname>
+               </controlaccess>
+               <controlaccess>
+                  <head>Entstehungsorte</head>
+                  <geogname role="PlaceOfOrigin">Stuttgart</geogname>
+               </controlaccess>
+               <controlaccess>
+                  <head>Gattungen</head>
+                  <genreform>Briefe</genreform>
+               </controlaccess>
+            </c>
+         </c>
+         <c id="DE-2498-HS00744979" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00744979"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Lehmann, Karl an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="19871022">22.10.1987</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00029</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann (gleiche Adresse)</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="11872715X"
+                         normal="Lehmann, Karl">Lehmann, Karl (1936-)</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Bonn</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00744983" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00744983"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Klostermann, Vittorio Eckard an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19970624">24.06.1997</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00013</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="122482808"
+                         normal="Klostermann, Vittorio Eckard">Klostermann, Vittorio Eckard (1950-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Frankfurt am Main</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745107" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745107"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Guttenberg, Stephanie zu an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="20110214">14.02.2011</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00008</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="142310972"
+                         normal="Guttenberg, Stephanie zu">Guttenberg, Stephanie zu (1976-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="GND"
+                         authfilenumber="10170555-4"
+                         normal="Innocence in Danger Deutsche Sektion e.V.">Innocence in Danger Deutsche Sektion e.V.</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745137" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745137"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Ladan-Bockairy, Erika an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1988/1989">1988-1989</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00014</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Br., 1 Kte  3 Bl.  Mit Beil.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Ladan-Bockairy, Erika">Ladan-Bockairy, Erika</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser" source="DE-2498" normal="Les Colombières &lt;Menton&gt;">Les Colombières &lt;Menton&gt;</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Menton</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745239" level="file" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745239"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Döbler, Hannsferdinand an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1984/1985">1984-1985</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00003,1-6</unitid>
+                <abstract>
+                    <ref xlink:href="#DE-2498-HS00745242"
+                       xlink:title="Ein Bericht für Freunde auf die Frage: wie war es in Rom?">Dabei: Döbler, Hannsferdinand: Ein Bericht für Freunde auf die Frage: wie war es in Rom? [Prosa]</ref>
+                </abstract>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">6 Br. 7 Bl.  Mit Beil.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="120495635"
+                         normal="Döbler, Hannsferdinand">Döbler, Hannsferdinand (1919-2004)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Hannover</geogname>
+                <geogname role="PlaceOfOrigin">und andere</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+            <c id="DE-2498-HS00745242" level="item" audience="external">
+               <did>
+                  <repository>
+                    <corpname role="Bestandshaltende Institution"
+                               authfilenumber="DE-2498"
+                               source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                  </repository>
+				              <dao xlink:type="simple"
+                       xlink:show="replace"
+                       xlink:actuate="onLoad"
+                       xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745242"
+                       xlink:title="Katalogeintrag im OPAC des DLA"/>
+                  <unittitle label="Manuskripttitel">Döbler, Hannsferdinand: Ein Bericht für Freunde auf die Frage: wie war es in Rom? [Prosa]</unittitle>
+                  <unitdate normal="19850618">18.06.1985</unitdate>
+                  <unitid countrycode="DE"
+                          repositorycode="DE-2498"
+                          label="Akquisitionsnummer">HS.2013.0002.00003,4</unitid>
+                  <abstract>
+                    <ref xlink:href="#DE-2498-HS00745239"
+                          xlink:title="Döbler, Hannsferdinand an Hüttermann-Hegermann, Wilhelm [Briefe]">Bei: Döbler, Hannsferdinand an Hüttermann-Hegermann, Wilhelm [Briefe]</ref>
+                  </abstract>
+                  <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Kopie mit hs. Zusatz</extent>
+                  </physdesc>
+                  <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                  </langmaterial>
+               </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+               <controlaccess>
+                  <head>Personen</head>
+                  <persname role="Verfasser"
+                            source="GND"
+                            authfilenumber="120495635"
+                            normal="Döbler, Hannsferdinand">Döbler, Hannsferdinand (1919-2004)</persname>
+               </controlaccess>
+               <controlaccess>
+                  <head>Gattungen</head>
+                  <genreform>Prosa</genreform>
+               </controlaccess>
+            </c>
+         </c>
+         <c id="DE-2498-HS00745285" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745285"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Dohna, Benita zu an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1995/1998">1995-1998</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00004</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Br.  3 Bl.  Mit 1 Umschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="112053351"
+                         normal="Dohna, Benita zu">Dohna, Benita zu (1919-2004)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+               <persname role="Werktitel Person"
+                         source="GND"
+                         authfilenumber="119239248"
+                         normal="Schwerin, Georg von">Schwerin, Georg von (1886-1971)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Onsala</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+           <controlaccess>
+                <head>Werktitel</head>
+                <p>
+                    <bibref>
+                        <title>Zettemin</title>
+                    </bibref>
+                </p>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745301" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745301"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Domizlaff, Georg C. an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1998/1999">1998-1999</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00005</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Br.  2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Georg C. Domizlaff ist der Sohn von Hans Domizlaff (1892-1971)</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Domizlaff, Georg C.">Domizlaff, Georg C.</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Hamburg</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745304" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745304"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Erler, Gotthard an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="19950105">05.01.1995</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00026</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann (gleiche Adresse)</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="123537134"
+                         normal="Erler, Gotthard">Erler, Gotthard (1933-)</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="118534262"
+                         normal="Fontane, Theodor">Fontane, Theodor (1819-1898)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="GND"
+                         authfilenumber="5058957-X"
+                         normal="Aufbau-Verlag &lt;Berlin&gt;">Aufbau-Verlag &lt;Berlin&gt; (1990-)</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745465" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745465"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Noelle-Neumann, Elisabeth an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="2000/2001">2000-2001</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00015</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Br.  3 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118588419"
+                         normal="Noelle-Neumann, Elisabeth">Noelle-Neumann, Elisabeth (1916-2010)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="GND"
+                         authfilenumber="2013703-5"
+                         normal="Institut für Demoskopie &lt;Allensbach&gt;">Institut für Demoskopie &lt;Allensbach&gt; (1947-)</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Allensbach</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745467" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745467"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Archiv zur Geschichte der Luftfahrt im Ruhrgebiet &lt;Essen&gt; an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="2007">2007</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00002</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Br.  3 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="122821432"
+                         normal="Rißmann-Ottow, Guido">Rißmann-Ottow, Guido (1964-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="DE-2498"
+                         normal="Archiv zur Geschichte der Luftfahrt im Ruhrgebiet &lt;Essen&gt;">Archiv zur Geschichte der Luftfahrt im Ruhrgebiet &lt;Essen&gt;</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Essen</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745500" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745500"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Wangenheim, Wolfgang von an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="20090815">15.08.2009</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00022</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.  Mit 1 Umschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Über die Aussprache des Namens Guttenberg</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Wangenheim, Wolfgang von">Wangenheim, Wolfgang von</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="129602434"
+                         normal="Guttenberg, Karl-Theodor zu">Guttenberg, Karl-Theodor zu (1971-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Berlin</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745509" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745509"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Buchmarkt &lt;Zeitschrift, Düsseldorf&gt; an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="19660701">01.07.1966</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00025</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann.</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Zittwitz, Christian von">Zittwitz, Christian von</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="DE-2498"
+                         normal="Buchmarkt &lt;Zeitschrift, Düsseldorf&gt;">Buchmarkt &lt;Zeitschrift, Düsseldorf&gt;</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Düsseldorf</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745545" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745545"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Fürstlich Hohenzollernsche Hofkammer &lt;Sigmaringen&gt; an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="20001205">05.12.2000</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00007</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+           <controlaccess>
+                <head>Körperschaften</head>
+               <corpname role="Verfasser"
+                         source="DE-2498"
+                         normal="Fürstlich Hohenzollernsche Hofkammer &lt;Sigmaringen&gt;">Fürstlich Hohenzollernsche Hofkammer &lt;Sigmaringen&gt;</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Sigmaringen</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745567" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745567"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Wilde, Hildegard an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19980822">22.08.1998</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Hildegard Wilde ist die Ehefrau von Dietrich Wilde</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Wilde, Hildegard">Wilde, Hildegard</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="1046032305"
+                         normal="Wilde, Dietrich">Wilde, Dietrich (1909-1984)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Peine</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745580" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745580"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Zur Muehlen, Bernt Ture von an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19931108">08.11.1993</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00024</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="DE-2498"
+                         normal="Zur Muehlen, Bernt Ture von">Zur Muehlen, Bernt Ture von</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Frankfurt am Main</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745588" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745588"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Lenzen, Hans Georg an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="2007/2011">2007-2011</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00030</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Br.  2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann.</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="137619618"
+                         normal="Lenzen, Hans Georg">Lenzen, Hans Georg (1921-2014)</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Grevenbroich</geogname>
+                <geogname role="PlaceOfOrigin">ohne Ort</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745589" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745589"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Koch, Roland an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="20000922">22.09.2000</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00028</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann.</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="120458845"
+                         normal="Koch, Roland">Koch, Roland (1958-)</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Wiesbaden</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745591" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745591"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Erwin, Joachim an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="20020912">12.09.2002</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00006</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="123714907"
+                         normal="Erwin, Joachim">Erwin, Joachim (1949-2008)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Düsseldorf</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745592" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745592"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Hake, Ursula von an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19990425">25.04.1999</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00009</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Hake, Ursula von">Hake, Ursula von</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Ohr</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745593" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745593"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Heller, Gisela an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19960414">14.04.1996</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00010</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="120233517"
+                         normal="Heller, Gisela">Heller, Gisela (1929-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Teltow</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745618" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745618"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Heyden, Bogislav von an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19970410">10.04.1997</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00011</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Heyden, Bogislav von">Heyden, Bogislav von</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Pähl</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745622" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745622"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Herlin, Hans an Hüttermann, Elmar D. [Briefe]</unittitle>
+                <unitdate normal="19740905">05.09.1974</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00027</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+                <note audience="external" label="Bemerkung">
+                    <p>Der Adressat ist möglicherweise identisch mit Wilhelm Hüttermann-Hegermann.</p>
+                </note>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Herlin, Hans">Herlin, Hans</persname>
+               <persname role="Adressat" source="DE-2498" normal="Hüttermann, Elmar D.">Hüttermann, Elmar D.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Einöde Unterfinning</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745632" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745632"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Hückstädt, Arnold an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="19960814">14.08.1996</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00012</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="133593444"
+                         normal="Hückstädt, Arnold">Hückstädt, Arnold (1935-)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Seedorf</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00745645" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00745645"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Spee-Mirbach, Wilderich von an Hüttermann-Hegermann, Wilhelm [Briefe]</unittitle>
+                <unitdate normal="1986">1986[März]</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2013.0002.00020</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="DE-2498"
+                         normal="Spee-Mirbach, Wilderich von">Spee-Mirbach, Wilderich von (-2013)</persname>
+               <persname role="Adressat"
+                         source="GND"
+                         authfilenumber="1098214714"
+                         normal="Hüttermann-Hegermann, Wilhelm">Hüttermann-Hegermann, Wilhelm (1930-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Entstehungsorte</head>
+                <geogname role="PlaceOfOrigin">Korschenbroich</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Briefe</genreform>
+            </controlaccess>
+        </c>
+      </dsc>
+   </archdesc>
+</ead>

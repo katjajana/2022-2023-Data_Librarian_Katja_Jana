@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b"
+              scriptencoding="iso15924"
+              dateencoding="iso8601"
+              countryencoding="iso3166-1"
+              repositoryencoding="iso15511"
+              audience="external">
+      <eadid countrycode="DE" mainagencycode="DE-2498"/>
+      <filedesc>
+        <titlestmt>
+            <titleproper>C:Segebrecht, Wulf - [Provenienzbestand, Sammlung]</titleproper>
+        </titlestmt>
+      </filedesc>
+   </eadheader>
+   <archdesc id="DE-2498-BF00036157" level="collection" audience="external">
+      <did>
+        <repository>
+            <corpname role="Bestandshaltende Institution"
+                      authfilenumber="DE-2498"
+                      source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+        </repository>
+        <dao xlink:type="simple"
+              xlink:show="replace"
+              xlink:actuate="onLoad"
+              xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/bf/index.html?ADISDB=BF&amp;WEB=JA&amp;ADISOI=00036157"
+              xlink:title="Katalogeintrag im OPAC des DLA"/>
+        <origination>
+            <persname role="Bestandsbildner"
+                      source="GND"
+                      authfilenumber="117447048"
+                      normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+        </origination>
+        <unittitle label="Titel">C:Segebrecht, Wulf - [Provenienzbestand, Sammlung]</unittitle>
+        <unitid repositorycode="DE-2498" label="Signatur">C:Segebrecht, Wulf</unitid>
+        <physdesc label="Angaben zum Material">
+             <extent label="Umfang">1 Mappe</extent>
+        </physdesc>
+      </did>
+      <accessrestrict>
+        <head>Sperrvermerk</head>
+        <p>benutzbar</p>
+      </accessrestrict>
+      <controlaccess>
+            <head>Gattung</head>
+        <genreform>Provenienzbestand</genreform>
+        <genreform>Sammlung</genreform>
+      </controlaccess>
+      <scopecontent>
+        <head>Inhaltsangabe</head>
+        <p>Bucheinlagen</p>
+      </scopecontent>
+      <dsc>
+         <c id="DE-2498-HS01140441" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=01140441"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Segebrecht, Wulf: Einlagen 1 [Verschiedenes. Provenienzmaterial]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2018.0023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Blatt. Mit Foto</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+            <bibliography>
+                <head>Bibliographie</head>
+                <bibliography>
+                    <head>Sonstige Bezugswerke</head>
+                    <p>Und du an meiner Seite in der Wildnis singend : Omar Khayyam: Rubaiyat ; Sinnsprüche persischer Poesie</p>
+                </bibliography>
+            </bibliography>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Sonstige"
+                         source="GND"
+                         authfilenumber="117447048"
+                         normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Verschiedenes</genreform>
+                <genreform>Provenienzmaterial</genreform>
+            </controlaccess>
+            <scopecontent>
+                <head>Inhaltsangabe</head>
+                <p>Foto von Ulrich Helmke (1988) und handschriftlichem Brief von Ulrich Helmke an Wulf Segebrecht</p>
+                </scopecontent>
+        </c>
+         <c id="DE-2498-HS01140442" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=01140442"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Segebrecht, Wulf: Einlagen 2 [Verschiedenes. Provenienzmaterial]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2018.0023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Blatt</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+            <bibliography>
+                <head>Bibliographie</head>
+                <bibliography>
+                    <head>Sonstige Bezugswerke</head>
+                    <p>¬Das¬ Ballsouper</p>
+                </bibliography>
+            </bibliography>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Sonstige"
+                         source="GND"
+                         authfilenumber="117447048"
+                         normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Verschiedenes</genreform>
+                <genreform>Provenienzmaterial</genreform>
+            </controlaccess>
+            <scopecontent>
+                <head>Inhaltsangabe</head>
+                <p>handschriftlicher Brief von Ulrich [Helmke] an Wulf [Segebrecht]. - Verlagsverzeichnis mit Widmung von [Ulrich] Helmke an [Wulf] Segebrecht. - Zeitungsausschnitt und eine Kopie mit der Geschichte "Begegnung mit dem Urenkel eines Hofnarren" von Ulrich Helmke (2 S.)</p>
+                </scopecontent>
+        </c>
+         <c id="DE-2498-HS01140443" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=01140443"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Segebrecht, Wulf: Einlagen 3 [Verschiedenes. Provenienzmaterial]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2018.0023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Blatt</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+            <bibliography>
+                <head>Bibliographie</head>
+                <bibliography>
+                    <head>Sonstige Bezugswerke</head>
+                    <p>Aufstand der Spartaner im Rokoko : Novelle</p>
+                </bibliography>
+            </bibliography>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Sonstige"
+                         source="GND"
+                         authfilenumber="117447048"
+                         normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Verschiedenes</genreform>
+                <genreform>Provenienzmaterial</genreform>
+            </controlaccess>
+            <scopecontent>
+                <head>Inhaltsangabe</head>
+                <p>kopierter Zeitungsausschnitt mit handschriftlichen Eintragungen von Ulrich Helmke</p>
+                </scopecontent>
+        </c>
+         <c id="DE-2498-HS01140444" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=01140444"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Segebrecht, Wulf: Einlagen 4 [Verschiedenes. Provenienzmaterial]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2018.0023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Blatt</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+            <bibliography>
+                <head>Bibliographie</head>
+                <bibliography>
+                    <head>Sonstige Bezugswerke</head>
+                    <p>Besuch beim Dichterfürsten : Novelle</p>
+                </bibliography>
+            </bibliography>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Sonstige"
+                         source="GND"
+                         authfilenumber="117447048"
+                         normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Verschiedenes</genreform>
+                <genreform>Provenienzmaterial</genreform>
+            </controlaccess>
+            <scopecontent>
+                <head>Inhaltsangabe</head>
+                <p>Brief von Ulrich [Helmke] an Wulf [Segebrecht]</p>
+                </scopecontent>
+        </c>
+         <c id="DE-2498-HS01140445" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=01140445"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Segebrecht, Wulf: Einlagen 5 [Verschiedenes. Provenienzmaterial]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">HS.2018.0023</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Blatt</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+            <bibliography>
+                <head>Bibliographie</head>
+                <bibliography>
+                    <head>Sonstige Bezugswerke</head>
+                    <p>Thersites oder die schwarze Suppe : Komödie in fünf Akten</p>
+                </bibliography>
+            </bibliography>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Sonstige"
+                         source="GND"
+                         authfilenumber="117447048"
+                         normal="Segebrecht, Wulf">Segebrecht, Wulf (1935-)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Verschiedenes</genreform>
+                <genreform>Provenienzmaterial</genreform>
+            </controlaccess>
+            <scopecontent>
+                <head>Inhaltsangabe</head>
+                <p>Zettel mit handschriftlicher Nachricht von Ulrich [Helmke] an Wulf [Segebrecht]</p>
+                </scopecontent>
+        </c>
+      </dsc>
+   </archdesc>
+</ead>

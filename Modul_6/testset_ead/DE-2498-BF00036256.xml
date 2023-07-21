@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b"
+              scriptencoding="iso15924"
+              dateencoding="iso8601"
+              countryencoding="iso3166-1"
+              repositoryencoding="iso15511"
+              audience="external">
+      <eadid countrycode="DE" mainagencycode="DE-2498"/>
+      <filedesc>
+        <titlestmt>
+            <titleproper>A:Schmidt, Arno - [Bestand, Sammlung]</titleproper>
+        </titlestmt>
+      </filedesc>
+   </eadheader>
+   <archdesc id="DE-2498-BF00036256" level="collection" audience="external">
+      <did>
+        <repository>
+            <corpname role="Bestandshaltende Institution"
+                      authfilenumber="DE-2498"
+                      source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+        </repository>
+        <dao xlink:type="simple"
+              xlink:show="replace"
+              xlink:actuate="onLoad"
+              xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/bf/index.html?ADISDB=BF&amp;WEB=JA&amp;ADISOI=00036256"
+              xlink:title="Katalogeintrag im OPAC des DLA"/>
+        <origination>
+            <persname role="Bestandsbildner"
+                      source="GND"
+                      authfilenumber="118608703"
+                      normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+        </origination>
+        <unittitle label="Titel">A:Schmidt, Arno - [Bestand, Sammlung]</unittitle>
+        <unitid repositorycode="DE-2498" label="Signatur">A:Schmidt, Arno</unitid>
+        <physdesc label="Angaben zum Material">
+             <extent label="Umfang">1 Kasten</extent>
+        </physdesc>
+      </did>
+      <accessrestrict>
+        <head>Sperrvermerk</head>
+        <p>benutzbar</p>
+      </accessrestrict>
+      <controlaccess>
+            <head>Gattung</head>
+        <genreform>Bestand</genreform>
+        <genreform>Sammlung</genreform>
+      </controlaccess>
+      <dsc>
+         <c id="DE-2498-HS00712589" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00712589"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Hellwig, Jürgen: Die lesen meine Bücher nicht. Wär' ja auch schlimm [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">x 80.136</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Kopie. Mit 1 Beil. 1 Bl. Kopie</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser" source="DE-2498" normal="Hellwig, Jürgen">Hellwig, Jürgen</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890297" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890297"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: ... denn "wallflower" heißt "Goldlack" [Dramatisches]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.1</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">25 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Dramatisches</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890298" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890298"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Insel Felsenburg [Dramatisches]</unittitle>
+                <unitdate normal="1957">1957</unitdate>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.2</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">20 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Dramatisches</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890299" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890299"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Meisterdiebe [Dramatisches]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.3</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">21 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Dramatisches</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890300" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890300"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Vorspiel [Dramatisches]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.4</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Dramatisches</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890301" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890301"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Abenteuer der Sylvesternacht [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.5</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">15 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890302" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890302"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Abschied im Regen [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.6</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890304" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890304"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Bulwer oder die Meßbarmachung einer unbekannten Größe [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.7</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">6 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="11866493X"
+                         normal="Bulwer Lytton, Edward George">Bulwer Lytton, Edward George (1803-1873)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890305" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890305"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Curieuses Meublement [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.8</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890306" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890306"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Dankadresse zum Goethe-Preis 1973 [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.9</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Sachschlagwörter</head>
+                <subject>Goethe-Preis der Stadt Frankfurt</subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890307" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890307"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Eberhard  Schlotter "Aufgang der weissen Tafel" [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.10</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890309" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890309"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Eines Hähers "TUÈ" und 1014 fallend [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.11</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">11 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890310" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890310"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Es soll der Dichter mit dem König gehen [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.12</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">6 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890311" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890311"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Fontane und der Eskimo [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.13</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890312" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890312"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Fouqué, der letzte Ritter [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.14</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="118534556"
+                         normal="Fouqué, Friedrich de la Motte">Fouqué, Friedrich de la Motte (1777-1843)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890315" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890315"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Gespräch mit einer Sirene [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.15</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890316" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890316"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Der Graf von Gleichen [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.16</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890317" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890317"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die große Hebammenkunst [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.17</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890318" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890318"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Henoch, NT, und Kosmas [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.18</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890319" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890319"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Ichthyophagen [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.19</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890320" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890320"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Im Eifer des Gefechts [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.20</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890321" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890321"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Kann der Mensch noch auf Geborgenheit hoffen? [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.21</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890322" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890322"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Krakatau [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.22</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890324" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890324"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Kundisches Geschirr [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.23</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">24 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890326" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890326"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Leopold Schefer (Einem deutschen Schriftsteller zum 100. Todestage am 16. Februar 1962) [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.24</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">9 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="118606824"
+                         normal="Schefer, Leopold">Schefer, Leopold (1784-1862)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890327" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890327"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Der Letzte des "Hainbundes": Samuel Christian Pape. (Vor 140 Jahren starb ein vergessener norddeutscher Dichter) [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.25</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">4 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="116030569"
+                         normal="Pape, Samuel Christian">Pape, Samuel Christian (1774-1817)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890329" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890329"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Man nehme... [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.26</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890330" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890330"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Martern aller Arten [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.27</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890331" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890331"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Muß das künstlerische Material kalt gehalten werden? [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.28</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890332" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890332"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Nichts ist mir zu klein [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.29</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890333" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890333"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Noch einmal: "Ulysses in Deutschland" [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.30</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">1 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890334" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890334"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Pflicht des Lesers [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.31</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890335" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890335"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Pioneers, oh Pioneers! [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.32</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">4 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="118676865"
+                         normal="Cooper, James Fenimore">Cooper, James Fenimore (1789-1851)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890336" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890336"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Reise zum Mittelpunkt der Erde [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.33</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890337" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890337"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Rollende Nacht [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.34</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890338" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890338"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Sächsischer Janus. (Am 30. März, vor 50 Jahren, starb Karl May) [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.35</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">14 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="118818651"
+                         normal="May, Karl">May, Karl (1842-1912)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890339" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890339"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Sind Träume Schäume? [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.36</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890340" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890340"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Stigma der Mittelmäßigkeit [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.37</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890341" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890341"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Trommler beim Zaren [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.38</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">6 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890342" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890342"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Unsterblichkeit für Amateure [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.39</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">6 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890343" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890343"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: "Urkundlich belegt" [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.40</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890344" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890344"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Vorsicht: Gesamtausgabe! [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.41</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890345" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890345"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: "Wahrheit"-?, seggt Pilatus, un grifflacht... [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.42</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">7 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890346" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890346"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Wasserlilie [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.43</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890347" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890347"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Die Werwölfe [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.44</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890348" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890348"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Der Zauberer von Helmstedt [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.45</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="119059339"
+                         normal="Beireis, Gottfried Christoph">Beireis, Gottfried Christoph (1730-1809)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890349" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890349"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Zu ähnlich [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.46</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">4 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890350" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890350"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Zwei kleine Planeten - ein großer Schüler [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.47</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Behandelte Person"
+                         source="GND"
+                         authfilenumber="11858975X"
+                         normal="Olbers, Wilhelm">Olbers, Wilhelm (1758-1840)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890351" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890351"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle>Schmidt, Arno: Der "Zweite Teil" [Prosa]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.48</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">3 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Verfasser"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890362" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890362"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Freud, Sigmund: Werke "Gesammelte Werke" [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.49</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890367" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890367"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Joyce, Stanislaus: Verschiedenes. Autobiographisches "Das Dubliner Tagebuch" [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.50</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890369" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890369"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Kreuder, Ernst: Prosa "Agimos oder Die Weltgehilfen" [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.51</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">5 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890370" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890370"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Lockemann, Fritz: Prosa "Gestalt und Wandlungen der deutschen Novelle [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.52</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">2 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890372" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890372"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Scheerbart, Paul: Werke. Auswahl "Dichterische Hauptwerke" [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.53</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">4 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+        </c>
+         <c id="DE-2498-HS00890373" level="item" audience="external">
+            <did>
+                <repository>
+                    <corpname role="Bestandshaltende Institution"
+                            authfilenumber="DE-2498"
+                            source="ISIL">Deutsches Literaturarchiv Marbach, Archiv</corpname>
+                </repository>
+				           <dao xlink:type="simple"
+                    xlink:show="replace"
+                    xlink:actuate="onLoad"
+                    xlink:href="http://www.dla-marbach.de/kallias/aDISWeb/hs/index.html?ADISDB=HS&amp;WEB=JA&amp;ADISOI=00890373"
+                    xlink:title="Katalogeintrag im OPAC des DLA"/>
+                <unittitle label="Titel von Bearbeiter/in">Schmidt, Arno: Schnabel, Johann Gottfried: Prosa "Die Insel Felsenburg" [Prosa. Rezensionen]</unittitle>
+                <unitid countrycode="DE"
+                       repositorycode="DE-2498"
+                       label="Akquisitionsnummer">95.148.54</unitid>
+                <physdesc label="Angaben zum Material">
+                    <extent label="Umfang">4 Bl. Durchschl.</extent>
+                </physdesc>
+                <langmaterial>
+                    <language langcode="ger">Deutsch</language>
+                </langmaterial>
+            </did>
+                <accessrestrict>
+                    <head>Sperrvermerk</head>
+                    <p>benutzbar</p>
+                </accessrestrict>
+           <controlaccess>
+                <head>Personen</head>
+               <persname role="Rezensent"
+                         source="GND"
+                         authfilenumber="118608703"
+                         normal="Schmidt, Arno">Schmidt, Arno (1914-1979)</persname>
+               <persname role="Werktitel Person"
+                         source="GND"
+                         authfilenumber="118609475"
+                         normal="Schnabel, Johann Gottfried">Schnabel, Johann Gottfried (1692-1752)</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Gattungen</head>
+                <genreform>Prosa</genreform>
+                <genreform>Rezensionen</genreform>
+            </controlaccess>
+           <controlaccess>
+                <head>Werktitel</head>
+                <p>
+                    <bibref>
+                        <title>Die Insel Felsenburg</title>
+                    </bibref>
+                </p>
+            </controlaccess>
+        </c>
+      </dsc>
+   </archdesc>
+</ead>
