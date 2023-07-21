@@ -3,5 +3,5 @@ Jupyter Notebookes und Bash Skript
 
 2022-11-29
 
--Git-Übung Köln 2022-11 SBIW
+-Git-Übung Köln 2022-11 ZBIW
 - Katja Jana
