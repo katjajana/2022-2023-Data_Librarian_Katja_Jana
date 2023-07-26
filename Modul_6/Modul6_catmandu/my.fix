@@ -1,0 +1,13 @@
+set_field(GNDnr, "NaN");
+set_field(ID-Bestand, "NaN");
+set_field(Rolle, "NaN");
+set_field(Name_normiert, "NaN");
+set_field(Sourc, "NaN");
+
+cp(persname.authfilenumber,GNDnr)
+cp(persname.content,Name)
+cp(persname.encodinganalog,ID-Bestand)
+cp(persname.normal,Name_normiert)
+cp(persname.role,Rolle)
+cp(persname.source,Source)
+
